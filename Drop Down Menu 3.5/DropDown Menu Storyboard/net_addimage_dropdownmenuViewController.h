@@ -1,9 +1,7 @@
 //
 //  net_addimage_dropdownmenuViewController.h
 //  DropDown Menu Storyboard
-//
-//  Created by and on 14/07/2012.
-//
+
 
 #import <UIKit/UIKit.h>
 #import "UIDropDownMenu.h"

@@ -2,7 +2,6 @@
 //  net_addimage_dropdownmenuViewController.m
 //  DropDown Menu Storyboard
 //
-//  Created by and on 14/07/2012.
 
 #import "net_addimage_dropdownmenuViewController.h"
 #import <QuartzCore/QuartzCore.h>

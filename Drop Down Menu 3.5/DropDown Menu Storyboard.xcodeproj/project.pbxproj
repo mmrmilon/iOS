@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		49560CEB1663F032000A281E /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 49560CEA1663F032000A281E /* Default-568h@2x.png */; };
-		49560CEE1663F20D000A281E /* road.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 49560CED1663F20D000A281E /* road.jpg */; };
 		4959D09115A30BDC008C0F82 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4959D09015A30BDC008C0F82 /* UIKit.framework */; };
 		4959D09315A30BDC008C0F82 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4959D09215A30BDC008C0F82 /* Foundation.framework */; };
 		4959D09515A30BDC008C0F82 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4959D09415A30BDC008C0F82 /* CoreGraphics.framework */; };
@@ -22,7 +21,6 @@
 
 /* Begin PBXFileReference section */
 		49560CEA1663F032000A281E /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		49560CED1663F20D000A281E /* road.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = road.jpg; sourceTree = "<group>"; };
 		4959D08C15A30BDC008C0F82 /* DropDown Menu Storyboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "DropDown Menu Storyboard.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4959D09015A30BDC008C0F82 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4959D09215A30BDC008C0F82 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -85,7 +83,6 @@
 		4959D09615A30BDC008C0F82 /* DropDown Menu Storyboard */ = {
 			isa = PBXGroup;
 			children = (
-				49560CED1663F20D000A281E /* road.jpg */,
 				4959D0AD15A30D2D008C0F82 /* UIDropDownMenu.h */,
 				4959D0AE15A30D2D008C0F82 /* UIDropDownMenu.m */,
 				4959D09F15A30BDC008C0F82 /* net_addimage_dropdownmenuAppDelegate.h */,
@@ -163,7 +160,6 @@
 				4959D09B15A30BDC008C0F82 /* InfoPlist.strings in Resources */,
 				4959D0A415A30BDC008C0F82 /* MainStoryboard.storyboard in Resources */,
 				49560CEB1663F032000A281E /* Default-568h@2x.png in Resources */,
-				49560CEE1663F20D000A281E /* road.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
